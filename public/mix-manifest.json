@@ -1,0 +1,13 @@
+{
+    "/js/frontend/holder.js": "/js/frontend/holder.js",
+    "/css/frontend/main.css": "/css/frontend/main.css",
+    "/css/frontend/dark.css": "/css/frontend/dark.css",
+    "/css/bootstrap/bootstrap.css": "/css/bootstrap/bootstrap.css",
+    "/css/bootstrap/bootstrap-grid.css": "/css/bootstrap/bootstrap-grid.css",
+    "/css/bootstrap/bootstrap-reboot.css": "/css/bootstrap/bootstrap-reboot.css",
+    "/js/frontend/functions.js": "/js/frontend/functions.js",
+    "/js/frontend/plugins.js": "/js/frontend/plugins.js",
+    "/js/frontend/components.js": "/js/frontend/components.js",
+    "/js/frontend/charts.js": "/js/frontend/charts.js",
+    "/js/frontend/jquery.js": "/js/frontend/jquery.js"
+}
